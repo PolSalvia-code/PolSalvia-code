@@ -11,4 +11,4 @@ Right now I'm sharing my work from **Harvard CS50x**, where I learned the basics
 - HTML, CSS & JavaScript  
 
 📌 Check out my repository here:  
-➡️ **Harvard-CS50x-2025**  
+⬇️ **Harvard-CS50x-2025**  
