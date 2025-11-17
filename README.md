@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi, I'm Pol 👋
 
-<!--
-**PolSalvia-code/PolSalvia-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Curious and open-minded.  
+I'm learning programming and exploring different areas through real projects.
 
-Here are some ideas to get you started:
+Right now I'm sharing my work from **Harvard CS50x**, where I learned the basics of:
+- C  
+- Python  
+- SQL  
+- Flask  
+- HTML, CSS & JavaScript  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Check out my repository here:  
+➡️ **Harvard-CS50x-2025**  
